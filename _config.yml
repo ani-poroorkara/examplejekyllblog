@@ -28,7 +28,6 @@ twitter_username: idonthaveone
 github_username:  ani-poroorkara
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
 
