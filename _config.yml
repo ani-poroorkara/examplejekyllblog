@@ -28,7 +28,7 @@ github_username:  ani-poroorkara
 baseurl: "/examplejekyllblog/"
 url: "https://ani-poroorkara.github.io/"
 # Build settings
-theme: jekyll-theme-tactile
+theme: minima
 plugins:
   - jekyll-feed
 
